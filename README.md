@@ -12,7 +12,7 @@ A simplified server management system demonstrating subscription plan features.
 ## Installation
 1. Clone the repository:
    ```sh
-   git clone <repository-url>
+   git clone gh repo clone daus7768/runcloud
    ```
 2. Navigate to the project directory:
    ```sh
